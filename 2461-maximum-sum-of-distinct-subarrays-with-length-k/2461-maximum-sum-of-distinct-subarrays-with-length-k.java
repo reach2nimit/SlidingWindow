@@ -22,5 +22,6 @@ class Solution {
             right++;          
         }
         return maxSum;
+        //Current complexity: O ( N ) 
     }
 }
