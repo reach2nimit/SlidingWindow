@@ -1,8 +1,6 @@
 class Solution {
     public int maxResult(int[] nums, int k) {
         int len = nums.length;
-        int[] score = new int[len];
-        score[0] = nums[0];
         Deque<Integer> dq = new ArrayDeque();
         dq.add(0);
 
@@ -10,14 +8,14 @@ class Solution {
             while(!dq.isEmpty() && dq.peekFirst() + k < i)
                 dq.pollFirst();
             
-            score[i] = score[dq.peekFirst()] + nums[i];
+            nums[i] = nums[dq.peekFirst()] + nums[i];
 
-            while(!dq.isEmpty() && score[i]>=score[dq.peekLast()])
+            while(!dq.isEmpty() && nums[i]>=nums[dq.peekLast()])
                 dq.pollLast();
             
             dq.add(i);
         }
-        return score[len-1];
+        return nums[len-1];
         //Current complexity: O ( N )
     }
 }
