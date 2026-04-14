@@ -22,5 +22,7 @@ class Solution {
         }
 
         return (shortest == len + 1) ? -1 : shortest;
+        //Current complexity: O ( N ) 
+        
     }
 }
