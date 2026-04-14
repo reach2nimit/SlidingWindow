@@ -18,5 +18,6 @@ class Solution {
             dq.add(i);
         }
         return score[len-1];
+        //Current complexity: O ( N )
     }
 }
