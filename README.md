@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/reach2nimit/SlidingWindow/tree/master/1696-jump-game-vi) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/reach2nimit/SlidingWindow/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2762-continuous-subarrays](https://github.com/reach2nimit/SlidingWindow/tree/master/2762-continuous-subarrays) |
+| [3026-maximum-good-subarray-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/3026-maximum-good-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/reach2nimit/SlidingWindow/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3026-maximum-good-subarray-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/3026-maximum-good-subarray-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/reach2nimit/SlidingWindow/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3026-maximum-good-subarray-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/3026-maximum-good-subarray-sum) |
 ## Ordered Set
 |  |
 | ------- |
