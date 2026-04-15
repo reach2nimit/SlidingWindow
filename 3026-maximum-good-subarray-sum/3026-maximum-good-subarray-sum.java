@@ -24,5 +24,6 @@ class Solution {
                 seen.put(val, prefix[i]);
         }
         return ans == Long.MIN_VALUE ? 0 : ans;
+        // O(N)
     }
 }
