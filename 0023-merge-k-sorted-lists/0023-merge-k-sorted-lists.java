@@ -14,6 +14,7 @@ class Solution {
             return null;
         
         return mergeUtility(lists, 0, lists.length-1);
+        // NlogK where K is number of linked lists
     }
 
     public ListNode mergeUtility(ListNode[] lists, int start, int end){
