@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/reach2nimit/SlidingWindow/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/reach2nimit/SlidingWindow/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/reach2nimit/SlidingWindow/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/reach2nimit/SlidingWindow/tree/master/0973-k-closest-points-to-origin) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/reach2nimit/SlidingWindow/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/reach2nimit/SlidingWindow/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/reach2nimit/SlidingWindow/tree/master/0424-longest-repeating-character-replacement) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/reach2nimit/SlidingWindow/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/reach2nimit/SlidingWindow/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/reach2nimit/SlidingWindow/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/reach2nimit/SlidingWindow/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/reach2nimit/SlidingWindow/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/reach2nimit/SlidingWindow/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/reach2nimit/SlidingWindow/tree/master/0973-k-closest-points-to-origin) |
 | [1696-jump-game-vi](https://github.com/reach2nimit/SlidingWindow/tree/master/1696-jump-game-vi) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/reach2nimit/SlidingWindow/tree/master/0424-longest-repeating-character-replacement) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/reach2nimit/SlidingWindow/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3026-maximum-good-subarray-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/3026-maximum-good-subarray-sum) |
 ## Ordered Set
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0973-k-closest-points-to-origin](https://github.com/reach2nimit/SlidingWindow/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -103,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
