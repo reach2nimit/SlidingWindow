@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/reach2nimit/SlidingWindow/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1642-furthest-building-you-can-reach](https://github.com/reach2nimit/SlidingWindow/tree/master/1642-furthest-building-you-can-reach) |
 | [1696-jump-game-vi](https://github.com/reach2nimit/SlidingWindow/tree/master/1696-jump-game-vi) |
+| [1834-single-threaded-cpu](https://github.com/reach2nimit/SlidingWindow/tree/master/1834-single-threaded-cpu) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/reach2nimit/SlidingWindow/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2762-continuous-subarrays](https://github.com/reach2nimit/SlidingWindow/tree/master/2762-continuous-subarrays) |
 | [3026-maximum-good-subarray-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/3026-maximum-good-subarray-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/reach2nimit/SlidingWindow/tree/master/0973-k-closest-points-to-origin) |
 | [1642-furthest-building-you-can-reach](https://github.com/reach2nimit/SlidingWindow/tree/master/1642-furthest-building-you-can-reach) |
 | [1696-jump-game-vi](https://github.com/reach2nimit/SlidingWindow/tree/master/1696-jump-game-vi) |
+| [1834-single-threaded-cpu](https://github.com/reach2nimit/SlidingWindow/tree/master/1834-single-threaded-cpu) |
 | [2762-continuous-subarrays](https://github.com/reach2nimit/SlidingWindow/tree/master/2762-continuous-subarrays) |
 ## Prefix Sum
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/reach2nimit/SlidingWindow/tree/master/0253-meeting-rooms-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0973-k-closest-points-to-origin](https://github.com/reach2nimit/SlidingWindow/tree/master/0973-k-closest-points-to-origin) |
+| [1834-single-threaded-cpu](https://github.com/reach2nimit/SlidingWindow/tree/master/1834-single-threaded-cpu) |
 ## Quickselect
 |  |
 | ------- |
