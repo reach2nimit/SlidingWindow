@@ -15,5 +15,6 @@ class Solution {
             heap.offer(intervals[i][1]);
         }
        return heap.size();  
+       // NlogN
     }
 }
