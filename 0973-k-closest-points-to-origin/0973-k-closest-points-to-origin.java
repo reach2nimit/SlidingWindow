@@ -2,7 +2,7 @@ class Solution {
     public int[][] kClosest(int[][] points, int k) {
         
         Queue<int[]> maxHeap = new PriorityQueue<>(
-            (a,b) -> (b[0]*b[0] + b[1]*b[1]) - (a[0]*a[0] + a[1]*a[1])
+            (a,b) -> distance(b) - distance(a)
         );
 
         for(int[] point : points){
@@ -20,5 +20,9 @@ class Solution {
         return result;
         //Time complexity:O(nlogk)
         //Space complexity:O(k)
+    }
+
+    public int distance(int[] arr){
+        return arr[0]*arr[0] + arr[1]*arr[1];
     }
 }
