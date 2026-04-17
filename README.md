@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/reach2nimit/SlidingWindow/tree/master/0032-longest-valid-parentheses) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/reach2nimit/SlidingWindow/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1696-jump-game-vi](https://github.com/reach2nimit/SlidingWindow/tree/master/1696-jump-game-vi) |
 ## Hash Table
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/reach2nimit/SlidingWindow/tree/master/0032-longest-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/reach2nimit/SlidingWindow/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/reach2nimit/SlidingWindow/tree/master/2402-meeting-rooms-iii) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/reach2nimit/SlidingWindow/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
