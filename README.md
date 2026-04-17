@@ -156,9 +156,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/reach2nimit/SlidingWindow/tree/master/0032-longest-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/reach2nimit/SlidingWindow/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/reach2nimit/SlidingWindow/tree/master/0901-online-stock-span) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/reach2nimit/SlidingWindow/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/reach2nimit/SlidingWindow/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/reach2nimit/SlidingWindow/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/reach2nimit/SlidingWindow/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/reach2nimit/SlidingWindow/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
