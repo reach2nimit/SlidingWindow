@@ -13,6 +13,7 @@ class StockSpanner {
         stack.push(new int[]{price, span});
 
         return span;
+        //O(N)
     }
 }
 
