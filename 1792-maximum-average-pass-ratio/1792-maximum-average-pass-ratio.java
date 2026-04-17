@@ -34,6 +34,7 @@ class Solution {
             passRatio+= (current[1]/current[2]);
         }
         return passRatio/classes.length;
+        //(n+k)log n
     }
 
     public double calculateGain(int pass, int total){
@@ -42,4 +43,5 @@ class Solution {
         );
     }
     //be careful of typecasting here
+    //
 }
