@@ -14,5 +14,6 @@ class Solution {
             stack.push(i);
         }
         return result;
+        // O(N)
     }
 }
