@@ -9,19 +9,20 @@ class Solution {
             
             if(comp.equals("..")){
                 if(!st.isEmpty())
-                    st.pop();
+                    st.pollLast();
             }
             else{
-                st.push(comp);
+                st.offerLast(comp);
             }
         }
 
         StringBuilder sb = new StringBuilder();
         while(!st.isEmpty()){
-            StringBuilder temp = new StringBuilder(st.pop());
-            sb.append(temp.reverse()).append("/");
+            
+            sb.append("/");
+            sb.append(st.pollFirst());
         }
 
-        return sb.length() == 0 ? "/" : sb.reverse().toString();
+        return sb.length() > 0 ? sb.toString() : "/";
     }
 }
