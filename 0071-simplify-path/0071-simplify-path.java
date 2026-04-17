@@ -24,5 +24,6 @@ class Solution {
         }
 
         return sb.length() > 0 ? sb.toString() : "/";
+        //O(N)
     }
 }
