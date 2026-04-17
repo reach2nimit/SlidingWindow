@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/reach2nimit/SlidingWindow/tree/master/0253-meeting-rooms-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/reach2nimit/SlidingWindow/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0739-daily-temperatures](https://github.com/reach2nimit/SlidingWindow/tree/master/0739-daily-temperatures) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/reach2nimit/SlidingWindow/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/reach2nimit/SlidingWindow/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/reach2nimit/SlidingWindow/tree/master/0973-k-closest-points-to-origin) |
@@ -154,5 +155,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/reach2nimit/SlidingWindow/tree/master/0032-longest-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/reach2nimit/SlidingWindow/tree/master/0739-daily-temperatures) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/reach2nimit/SlidingWindow/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/reach2nimit/SlidingWindow/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
