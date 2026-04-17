@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/reach2nimit/SlidingWindow/tree/master/0032-longest-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/reach2nimit/SlidingWindow/tree/master/0424-longest-repeating-character-replacement) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/reach2nimit/SlidingWindow/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
 |  |
 | ------- |
@@ -139,10 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/reach2nimit/SlidingWindow/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1642-furthest-building-you-can-reach](https://github.com/reach2nimit/SlidingWindow/tree/master/1642-furthest-building-you-can-reach) |
 | [1792-maximum-average-pass-ratio](https://github.com/reach2nimit/SlidingWindow/tree/master/1792-maximum-average-pass-ratio) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/reach2nimit/SlidingWindow/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Two Pointers
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/reach2nimit/SlidingWindow/tree/master/0253-meeting-rooms-ii) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/reach2nimit/SlidingWindow/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Simulation
 |  |
 | ------- |
@@ -151,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/reach2nimit/SlidingWindow/tree/master/0032-longest-valid-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/reach2nimit/SlidingWindow/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
