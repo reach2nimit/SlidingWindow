@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/reach2nimit/SlidingWindow/tree/master/1792-maximum-average-pass-ratio) |
 | [1834-single-threaded-cpu](https://github.com/reach2nimit/SlidingWindow/tree/master/1834-single-threaded-cpu) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/reach2nimit/SlidingWindow/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [2402-meeting-rooms-iii](https://github.com/reach2nimit/SlidingWindow/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/reach2nimit/SlidingWindow/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2762-continuous-subarrays](https://github.com/reach2nimit/SlidingWindow/tree/master/2762-continuous-subarrays) |
 | [3026-maximum-good-subarray-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/3026-maximum-good-subarray-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/reach2nimit/SlidingWindow/tree/master/1792-maximum-average-pass-ratio) |
 | [1834-single-threaded-cpu](https://github.com/reach2nimit/SlidingWindow/tree/master/1834-single-threaded-cpu) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/reach2nimit/SlidingWindow/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [2402-meeting-rooms-iii](https://github.com/reach2nimit/SlidingWindow/tree/master/2402-meeting-rooms-iii) |
 | [2762-continuous-subarrays](https://github.com/reach2nimit/SlidingWindow/tree/master/2762-continuous-subarrays) |
 ## Prefix Sum
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/reach2nimit/SlidingWindow/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/reach2nimit/SlidingWindow/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [2402-meeting-rooms-iii](https://github.com/reach2nimit/SlidingWindow/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/reach2nimit/SlidingWindow/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3026-maximum-good-subarray-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/3026-maximum-good-subarray-sum) |
 ## Ordered Set
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/reach2nimit/SlidingWindow/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/reach2nimit/SlidingWindow/tree/master/0973-k-closest-points-to-origin) |
 | [1834-single-threaded-cpu](https://github.com/reach2nimit/SlidingWindow/tree/master/1834-single-threaded-cpu) |
+| [2402-meeting-rooms-iii](https://github.com/reach2nimit/SlidingWindow/tree/master/2402-meeting-rooms-iii) |
 ## Quickselect
 |  |
 | ------- |
@@ -137,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/reach2nimit/SlidingWindow/tree/master/0253-meeting-rooms-ii) |
+## Simulation
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/reach2nimit/SlidingWindow/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
