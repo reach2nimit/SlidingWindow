@@ -33,5 +33,6 @@ class Solution {
                 return chair;
         }
         return -1;
+        //NlogN
     }
 }
