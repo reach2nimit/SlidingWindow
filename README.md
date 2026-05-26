@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/reach2nimit/SlidingWindow/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/reach2nimit/SlidingWindow/tree/master/0253-meeting-rooms-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/reach2nimit/SlidingWindow/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0380-insert-delete-getrandom-o1](https://github.com/reach2nimit/SlidingWindow/tree/master/0380-insert-delete-getrandom-o1) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0739-daily-temperatures](https://github.com/reach2nimit/SlidingWindow/tree/master/0739-daily-temperatures) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/reach2nimit/SlidingWindow/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/reach2nimit/SlidingWindow/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/reach2nimit/SlidingWindow/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/reach2nimit/SlidingWindow/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/reach2nimit/SlidingWindow/tree/master/0380-insert-delete-getrandom-o1) |
 | [0973-k-closest-points-to-origin](https://github.com/reach2nimit/SlidingWindow/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -176,9 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/reach2nimit/SlidingWindow/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/reach2nimit/SlidingWindow/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/reach2nimit/SlidingWindow/tree/master/0901-online-stock-span) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/reach2nimit/SlidingWindow/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
