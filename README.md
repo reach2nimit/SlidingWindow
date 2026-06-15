@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/reach2nimit/SlidingWindow/tree/master/0253-meeting-rooms-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/reach2nimit/SlidingWindow/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/reach2nimit/SlidingWindow/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0739-daily-temperatures](https://github.com/reach2nimit/SlidingWindow/tree/master/0739-daily-temperatures) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/reach2nimit/SlidingWindow/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/0410-split-array-largest-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/reach2nimit/SlidingWindow/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Queue
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/reach2nimit/SlidingWindow/tree/master/0253-meeting-rooms-ii) |
+| [0410-split-array-largest-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/0410-split-array-largest-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/reach2nimit/SlidingWindow/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3026-maximum-good-subarray-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/3026-maximum-good-subarray-sum) |
 ## Monotonic Queue
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/reach2nimit/SlidingWindow/tree/master/0032-longest-valid-parentheses) |
+| [0410-split-array-largest-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/reach2nimit/SlidingWindow/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/reach2nimit/SlidingWindow/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1696-jump-game-vi](https://github.com/reach2nimit/SlidingWindow/tree/master/1696-jump-game-vi) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/reach2nimit/SlidingWindow/tree/master/0253-meeting-rooms-ii) |
+| [0410-split-array-largest-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/reach2nimit/SlidingWindow/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1642-furthest-building-you-can-reach](https://github.com/reach2nimit/SlidingWindow/tree/master/1642-furthest-building-you-can-reach) |
