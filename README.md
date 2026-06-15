@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0739-daily-temperatures](https://github.com/reach2nimit/SlidingWindow/tree/master/0739-daily-temperatures) |
+| [0774-minimize-max-distance-to-gas-station](https://github.com/reach2nimit/SlidingWindow/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/reach2nimit/SlidingWindow/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/reach2nimit/SlidingWindow/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/reach2nimit/SlidingWindow/tree/master/0907-sum-of-subarray-minimums) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/0410-split-array-largest-sum) |
+| [0774-minimize-max-distance-to-gas-station](https://github.com/reach2nimit/SlidingWindow/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/reach2nimit/SlidingWindow/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Queue
 |  |
