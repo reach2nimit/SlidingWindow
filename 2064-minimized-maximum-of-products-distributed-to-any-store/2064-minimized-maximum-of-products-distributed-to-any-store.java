@@ -7,7 +7,7 @@
 
 class Solution {
     public int minimizedMaximum(int n, int[] quantities) {
-        int low = 1, high = Arrays.stream(quantities).max().getAsInt();
+        int low = 1, high = 10_00_00;
         while (low < high) {
             int mid = (low + high) / 2, needed = 0;
             for (int q : quantities) needed += (q + mid - 1) / mid;
