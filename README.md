@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/reach2nimit/SlidingWindow/tree/master/1792-maximum-average-pass-ratio) |
 | [1834-single-threaded-cpu](https://github.com/reach2nimit/SlidingWindow/tree/master/1834-single-threaded-cpu) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/reach2nimit/SlidingWindow/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/reach2nimit/SlidingWindow/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2402-meeting-rooms-iii](https://github.com/reach2nimit/SlidingWindow/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/reach2nimit/SlidingWindow/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2762-continuous-subarrays](https://github.com/reach2nimit/SlidingWindow/tree/master/2762-continuous-subarrays) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/0410-split-array-largest-sum) |
 | [0774-minimize-max-distance-to-gas-station](https://github.com/reach2nimit/SlidingWindow/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/reach2nimit/SlidingWindow/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/reach2nimit/SlidingWindow/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Queue
 |  |
 | ------- |
