@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/reach2nimit/SlidingWindow/tree/master/0049-group-anagrams) |
 | [0239-sliding-window-maximum](https://github.com/reach2nimit/SlidingWindow/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/reach2nimit/SlidingWindow/tree/master/0253-meeting-rooms-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/reach2nimit/SlidingWindow/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/reach2nimit/SlidingWindow/tree/master/0049-group-anagrams) |
 | [0380-insert-delete-getrandom-o1](https://github.com/reach2nimit/SlidingWindow/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/reach2nimit/SlidingWindow/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/reach2nimit/SlidingWindow/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/reach2nimit/SlidingWindow/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/reach2nimit/SlidingWindow/tree/master/0071-simplify-path) |
 | [0424-longest-repeating-character-replacement](https://github.com/reach2nimit/SlidingWindow/tree/master/0424-longest-repeating-character-replacement) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/reach2nimit/SlidingWindow/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/reach2nimit/SlidingWindow/tree/master/0049-group-anagrams) |
 | [0253-meeting-rooms-ii](https://github.com/reach2nimit/SlidingWindow/tree/master/0253-meeting-rooms-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/reach2nimit/SlidingWindow/tree/master/0857-minimum-cost-to-hire-k-workers) |
