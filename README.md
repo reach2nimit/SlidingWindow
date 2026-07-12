@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/reach2nimit/SlidingWindow/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/reach2nimit/SlidingWindow/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/reach2nimit/SlidingWindow/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/reach2nimit/SlidingWindow/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/reach2nimit/SlidingWindow/tree/master/0424-longest-repeating-character-replacement) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/reach2nimit/SlidingWindow/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2405-optimal-partition-of-string](https://github.com/reach2nimit/SlidingWindow/tree/master/2405-optimal-partition-of-string) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/reach2nimit/SlidingWindow/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/reach2nimit/SlidingWindow/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/reach2nimit/SlidingWindow/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/reach2nimit/SlidingWindow/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/reach2nimit/SlidingWindow/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/reach2nimit/SlidingWindow/tree/master/0907-sum-of-subarray-minimums) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/reach2nimit/SlidingWindow/tree/master/0380-insert-delete-getrandom-o1) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/reach2nimit/SlidingWindow/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
