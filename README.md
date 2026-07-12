@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/reach2nimit/SlidingWindow/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2402-meeting-rooms-iii](https://github.com/reach2nimit/SlidingWindow/tree/master/2402-meeting-rooms-iii) |
+| [2405-optimal-partition-of-string](https://github.com/reach2nimit/SlidingWindow/tree/master/2405-optimal-partition-of-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/reach2nimit/SlidingWindow/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3026-maximum-good-subarray-sum](https://github.com/reach2nimit/SlidingWindow/tree/master/3026-maximum-good-subarray-sum) |
 ## Ordered Set
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/reach2nimit/SlidingWindow/tree/master/0071-simplify-path) |
 | [0424-longest-repeating-character-replacement](https://github.com/reach2nimit/SlidingWindow/tree/master/0424-longest-repeating-character-replacement) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/reach2nimit/SlidingWindow/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2405-optimal-partition-of-string](https://github.com/reach2nimit/SlidingWindow/tree/master/2405-optimal-partition-of-string) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/reach2nimit/SlidingWindow/tree/master/1792-maximum-average-pass-ratio) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/reach2nimit/SlidingWindow/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/reach2nimit/SlidingWindow/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2405-optimal-partition-of-string](https://github.com/reach2nimit/SlidingWindow/tree/master/2405-optimal-partition-of-string) |
 ## Two Pointers
 |  |
 | ------- |
