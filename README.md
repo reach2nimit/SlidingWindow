@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/reach2nimit/SlidingWindow/tree/master/0049-group-anagrams) |
 | [0380-insert-delete-getrandom-o1](https://github.com/reach2nimit/SlidingWindow/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/reach2nimit/SlidingWindow/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/reach2nimit/SlidingWindow/tree/master/0460-lfu-cache) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/reach2nimit/SlidingWindow/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2402-meeting-rooms-iii](https://github.com/reach2nimit/SlidingWindow/tree/master/2402-meeting-rooms-iii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reach2nimit/SlidingWindow/tree/master/0023-merge-k-sorted-lists) |
+| [0460-lfu-cache](https://github.com/reach2nimit/SlidingWindow/tree/master/0460-lfu-cache) |
 ## Merge Sort
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/reach2nimit/SlidingWindow/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/reach2nimit/SlidingWindow/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/reach2nimit/SlidingWindow/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/reach2nimit/SlidingWindow/tree/master/0394-decode-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/reach2nimit/SlidingWindow/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
